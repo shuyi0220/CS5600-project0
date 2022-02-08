@@ -6,6 +6,7 @@ Project0
 * Part 4 Ciphered Linked Queue
 
 Instructions for using:
+
 ** run `make caesar` will make to exectuable `caesar`:
   Enter input: text only includes alphabets but may include both uppercases and lowercases letters.
   Enter key: enter the number of positions you want to further from original letters.
